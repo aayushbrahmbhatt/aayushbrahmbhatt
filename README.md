@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="175px" /></a>
+<a href="#"><img width="70%" height="auto" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="175px" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
         width="30px">, I'm Aayush</h1>
