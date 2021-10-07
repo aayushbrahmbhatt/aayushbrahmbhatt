@@ -65,6 +65,15 @@ or skill level.
 <a href=https://www.linkedin.com/in/aayush-brahmbhatt-65881520b/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:aayushbrahmbhatt03@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="#" height="40" style="vertical-align:top; margin:4px"></a>
 
+
+
+</p>
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/aayush-brahmbhatt-65881520b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.youtube.com/channel/UCV6hcCAQFE4kFs9wODhb97g"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
 </p>
 
 ## ❤ Views and Followers
