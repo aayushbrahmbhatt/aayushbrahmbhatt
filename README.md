@@ -1,5 +1,6 @@
+<p align = "center">
 <a href="#"><img style="margin: 0 auto" width="70%" height="auto" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="175px" /></a>
-
+</p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
         width="30px">, I'm Aayush</h1>
 <h3 align="center">I'm a second year BTech ICT student at DAIICT</h3>
