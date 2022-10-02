@@ -3,15 +3,13 @@
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
         width="30px">, I'm Aayush</h1>
-<h3 align="center">I'm a second year BTech ICT student at DAIICT</h3>
+<h3 align="center">I'm a pre-final year BTech ICT student at DAIICT</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on C++ project
-- 🌱 I’m currently learning React JS
-- 👯 I’m looking to collaborate on web developing and competitive coding
-- 🤔 I’m looking for help from a full stack web developer
+- 🔭 I’m currently working on a Machine Learning project
+- 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me: aayushbrahmbhatt03@gmail.com
 - 😄 Pronouns: He/Him
 
