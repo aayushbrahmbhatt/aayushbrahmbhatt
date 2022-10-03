@@ -25,6 +25,8 @@
   <img src=https://cdn.345tool.com/public/logos/css-formatter-logo.png height='40'  weight='40'/> 
   <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg height='40' weight='40'/>
   <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/react.svg height='40' weight='40'/>
+  <img src=https://www.postgresql.org/media/img/about/press/elephant.png height='40' weight='40'/>
+  <img src=https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png height='40' weight='40'/>
 
 </p>
 
